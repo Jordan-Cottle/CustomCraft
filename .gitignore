@@ -1,0 +1,8 @@
+world*/
+cache/
+logs/
+
+banned*
+eula.txt
+ops.json
+*.json
