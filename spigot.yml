@@ -18,7 +18,7 @@ settings:
   player-shuffle: 0
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: ./run.sh
   netty-threads: 4
   bungeecord: false
   user-cache-size: 1000
@@ -100,6 +100,7 @@ world-settings:
       sprint-multiplier: 0.1
       other-multiplier: 0.0
     entity-activation-range:
+      water: 16
       animals: 32
       monsters: 32
       raiders: 48

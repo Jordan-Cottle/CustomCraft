@@ -58,6 +58,8 @@ messages:
     connection-throttle: Connection throttled! Please wait before reconnecting.
 world-settings:
   default:
+    portal-create-radius: 16
+    seed-based-feature-search: true
     per-player-mob-spawns: false
     keep-spawn-loaded: true
     keep-spawn-loaded-range: 10
